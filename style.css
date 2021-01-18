@@ -1,0 +1,21 @@
+*{
+    background-color: #ADD8E6;
+}
+
+h1{
+    background-color: grey;
+    text-align: center;
+    font-size: 4rem;
+    color: #F08080;
+}
+img{
+    margin-top: 20px;
+    border-style: solid;
+    border-color: black;
+    border-width: thick;
+    border-radius: 30px;
+}
+
+a:hover{
+    color: springgreen;
+}
